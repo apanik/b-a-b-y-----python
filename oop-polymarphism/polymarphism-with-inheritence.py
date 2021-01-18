@@ -14,7 +14,7 @@ known as Method Overriding.
 
 class Bird: 
   def intro(self): 
-    print("This is In") tro
+    print("This is Intro")
       
   def flight(self): 
     print("Most of birds can fly") 
