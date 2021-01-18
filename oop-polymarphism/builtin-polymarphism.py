@@ -32,6 +32,7 @@ add(5,10,15)
  print(sum(10,11))
  print(sum(10,11,12))
 
+# here also same function length but being used for getting different types
 
 
 
